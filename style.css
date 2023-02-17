@@ -1,0 +1,12 @@
+.default{
+    box-shadow: 5px 5px 5px #888888;
+    border-radius: 5px;
+    border: 1px solid #888888;
+    padding: 1%;
+}
+
+body{
+    border-radius: 5px;
+    border: 1px solid #888888;
+    box-shadow: 5px 5px 5px #888888;
+}
